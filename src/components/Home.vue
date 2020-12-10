@@ -3,7 +3,7 @@
     <v-container fluid class="full-height">
       <v-row>
         <v-col align="center" justify="center" cols="12">
-          <blockquote>
+          <h1 class="white--text elevation-0">
             Welcome Pitmaster!
             <footer>
               <small>
@@ -13,7 +13,7 @@
                 >
               </small>
             </footer>
-          </blockquote>
+          </h1>
         </v-col>
       </v-row>
       <v-footer
